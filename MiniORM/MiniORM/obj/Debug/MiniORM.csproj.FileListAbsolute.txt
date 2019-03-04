@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MiniORM\MiniORM\bin\Debug\MiniORM.exe.config
+C:\Users\User\source\repos\MiniORM\MiniORM\bin\Debug\MiniORM.exe
+C:\Users\User\source\repos\MiniORM\MiniORM\bin\Debug\MiniORM.pdb
+C:\Users\User\source\repos\MiniORM\MiniORM\obj\Debug\MiniORM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MiniORM\MiniORM\obj\Debug\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MiniORM\MiniORM\obj\Debug\MiniORM.exe
+C:\Users\User\source\repos\MiniORM\MiniORM\obj\Debug\MiniORM.pdb
