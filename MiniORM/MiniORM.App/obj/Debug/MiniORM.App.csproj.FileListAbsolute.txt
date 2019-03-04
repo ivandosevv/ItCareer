@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.App.exe.config
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.App.exe
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.App.pdb
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.exe
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.pdb
+C:\Users\User\source\repos\MiniORM\MiniORM.App\bin\Debug\MiniORM.exe.config
+C:\Users\User\source\repos\MiniORM\MiniORM.App\obj\Debug\MiniORM.App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MiniORM\MiniORM.App\obj\Debug\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MiniORM\MiniORM.App\obj\Debug\MiniORM.App.csproj.CopyComplete
+C:\Users\User\source\repos\MiniORM\MiniORM.App\obj\Debug\MiniORM.App.exe
+C:\Users\User\source\repos\MiniORM\MiniORM.App\obj\Debug\MiniORM.App.pdb
